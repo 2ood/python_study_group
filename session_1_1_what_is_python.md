@@ -1,5 +1,12 @@
 # Session 1_1
 
+## Session 1 Agenda
+* python 의 작성 특징
+* python 의 자료형
+* python 의 연산자
+* python 에서 변수를 다루는 방법, 내부 구조
+
+# Session 1-1
 Python에 대해 알아보자
 
 ## Python의 특징
